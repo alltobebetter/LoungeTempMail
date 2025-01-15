@@ -1,4 +1,6 @@
-# Lounge Mail📧 使用指南
+# Lounge Mail 📧 使用指南
+
+如果您需要临时手机号服务，请查看[此项目](https://sms.aibob.click/).
 
 Lounge Mail Viewer 是一款在线临时邮箱工具，可以让你方便地查看临时邮箱收到的邮件。你可以通过网页界面或 API 两种方式进行查询。
 
